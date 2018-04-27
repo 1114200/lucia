@@ -1,5 +1,7 @@
 <?php
 echo"hola";
-hola" alumnos de electivo i"
+echo " hola 2";
+hola "alumnos de electivo I";
+
 ?>
 
